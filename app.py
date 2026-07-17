@@ -11,7 +11,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🚀 Toko Bang Mien Dashboard")
+st.title("🚀 Motion Control Dashboard")
 
 # Mengambil API Key
 try:
